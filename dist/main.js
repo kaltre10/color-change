@@ -1,0 +1,1 @@
+(()=>{"use strict";const t=document.getElementById("btn"),o=["chocolate","brown","tomato","teal","violet"],e=()=>{let t=(n=o.length,Math.floor(Math.random()*n-0)+0);var n,l;document.body.style.backgroundColor==(l=t,document.body.style.backgroundColor=o[l])&&e()};t.addEventListener("click",e)})();
