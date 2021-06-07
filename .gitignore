@@ -1,5 +1,5 @@
 node_modules
-src
+dist
 package-lock.json
 package.json
 webpack.config.js
